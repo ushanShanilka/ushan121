@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ushan-shanilka/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/)[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GayasThasmika)](https://twitter.com/GayasThasmika) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gayasthasmika.w@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ushan-shanilka/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/)[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GayasThasmika)](https://twitter.com/GayasThasmika) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ushanshanilka80@.com)
  
  ### Profile Visits 
 ![Profile views](https://gpvc.arturio.dev/ushan121?v=3)
